@@ -1,5 +1,4 @@
 # 2progTaskHrytsiv
-Second lab. Programming task.
                          DESCRIPTION
 This is a program, which shows the all the places, where films were
 recordered in a specific year and creates an html file with this map. 
