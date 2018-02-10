@@ -1,5 +1,5 @@
 # 2progTaskHrytsiv
-                         DESCRIPTION
+DESCRIPTION:
 This is a program, which shows the all the places, where films were
 recordered in a specific year and creates an html file with this map. 
 There are three layers in the layer controller. The first is Films 
@@ -7,7 +7,7 @@ Amount, the second is Population and the third is Film Marks. You
 are able to switch them on and off.
 Also, it shows the density of population nowadays and the density of
 films amount of all time from the lightest to the darkest colour.   
-                         INSTRUCTIONS
+INSTRUCTIONS:
 At first you have to open your py file and install all the modules from
 the requirements.txt file.In the py file you set 2 agruments of the 
 mainFuction. First argument is the year and the second is the file with
